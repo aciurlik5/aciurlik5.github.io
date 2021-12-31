@@ -1,0 +1,84 @@
+{
+    "basic_info": {
+      "name": "Alyssa Ciurlik",
+      "titles": [ "Full-Stack Developer", "Georgia Tech CS Grad Student", "User Centered Design Enthusiast" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/aciurlik",
+          "class": "fab fa-github"
+        }
+      ],
+      "image": "myProfile.jpeg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "AngularJS",
+          "class": "devicon-angularjs-plain",
+          "level": "80",
+          "proficent": "width:'80px'"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "80",
+          "proficent": "width:'80px'"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70",
+          "proficent": "width:'80px'"
+        },
+        {
+          "name": "PHP",
+          "class": "devicon-php-plain",
+          "level": "70",
+          "proficent": "width:'80px'"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "70",
+          "proficent": "width:'80px'"
+        },
+        {
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "70",
+          "proficent": "width:'80px'"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60",
+          "proficent": "width:'80px'"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "60",
+          "proficent": "width:'80px'"
+        },
+        {
+          "name": "NodeJS",
+          "class": "devicon-nodejs-plain",
+          "level": "60",
+          "proficent": "width:'80px'"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "60",
+          "proficent": "width:'80px'"
+        },
+        {
+          "name": "Docker",
+          "class": "devicon-docker-plain",
+          "level": "60",
+          "proficent": "width:'80px'"
+        }
+      ]
+    }
+  }
